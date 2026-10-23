@@ -1,6 +1,6 @@
 # 💻 NLP Emotion Classifier
 
-🌐 **LIVE DEMO:** [Click Here to Explore NLP Emotion Classifier]
+🌐 **LIVE DEMO:** 
 (https://nlpemotionclassifier.streamlit.app)
 
 ## 📝 Problem Statement
