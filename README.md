@@ -52,3 +52,5 @@ Predictions depend on the training data and may not reliably interpret sarcasm, 
 ## 👩‍💻 Author
 **Palak Tonke**  
 Computer Science Engineering | Data Science
+
+**Note:** This project is developed for learning and demonstration of NLP, Machine Learning, and model deployment.
