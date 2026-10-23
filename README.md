@@ -1,5 +1,8 @@
 # 💻 NLP Emotion Classifier
 
+🌐 **LIVE DEMO:** [Click Here to Explore NLP Emotion Classifier]
+(https://nlpemotionclassifier.streamlit.app)
+
 ## 📝 Problem Statement
 Manually identifying emotions from large volumes of textual feedback, reviews, and messages can be time-consuming. Understanding the emotional tone of text can help organize and analyze feedback more efficiently.
 
